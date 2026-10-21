@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 12,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "orevspelcompat:raw_platinum_nugget"
+  },
+  "result": {
+    "count": 1,
+    "id": "orevolution:platinum_nugget"
+  }
+}

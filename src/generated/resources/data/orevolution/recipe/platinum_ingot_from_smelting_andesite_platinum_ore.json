@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "orevolution:platinum_ingot",
+  "ingredient": [
+    {
+      "item": "orevspelcompat:andesite_platinum_ore"
+    },
+    {
+      "item": "orevspelcompat:granite_platinum_ore"
+    },
+    {
+      "item": "orevspelcompat:diorite_platinum_ore"
+    },
+    {
+      "item": "orevspelcompat:tuff_platinum_ore"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "orevolution:platinum_ingot"
+  }
+}

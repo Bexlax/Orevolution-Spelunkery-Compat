@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.3,
+  "group": "orevolution:tungsten_ingot",
+  "ingredient": {
+    "item": "orevspelcompat:blackstone_tungsten_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "orevolution:tungsten_ingot"
+  }
+}

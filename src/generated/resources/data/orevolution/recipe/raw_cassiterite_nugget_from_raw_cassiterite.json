@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "orevolution:raw_cassiterite"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "orevspelcompat:raw_cassiterite_nugget"
+  }
+}

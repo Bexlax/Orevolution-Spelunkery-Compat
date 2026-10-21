@@ -1,0 +1,15 @@
+{
+  "block.orevspelcompat.andesite_platinum_ore": "Mineral de platino de andesita",
+  "block.orevspelcompat.andesite_tin_ore": "Mineral de estaño de andesita",
+  "block.orevspelcompat.blackstone_cassiterite_ore": "Mineral de casiterita de piedra negra",
+  "block.orevspelcompat.blackstone_tungsten_ore": "Mineral de tungsteno de piedra negra",
+  "block.orevspelcompat.diorite_platinum_ore": "Mineral de platino de diorita",
+  "block.orevspelcompat.diorite_tin_ore": "Mineral de estaño de diorita",
+  "block.orevspelcompat.granite_platinum_ore": "Mineral de platino de grano",
+  "block.orevspelcompat.granite_tin_ore": "Mineral de estaño de granito",
+  "block.orevspelcompat.tuff_platinum_ore": "Mineral de platino de tierra",
+  "block.orevspelcompat.tuff_tin_ore": "Mineral de estaño de toba",
+  "item.orevspelcompat.raw_platinum_nugget": "Pepita de platino crudo",
+  "item.orevspelcompat.raw_tin_nugget": "Pepita de estaño crudo",
+  "item.orevspelcompat.raw_tungsten_nugget": "Pepita de tungsteno crudo"
+}

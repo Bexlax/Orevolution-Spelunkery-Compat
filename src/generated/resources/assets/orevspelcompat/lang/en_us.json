@@ -1,0 +1,16 @@
+{
+  "block.orevspelcompat.andesite_platinum_ore": "Andesite Platinum Ore",
+  "block.orevspelcompat.andesite_tin_ore": "Andesite Tin Ore",
+  "block.orevspelcompat.blackstone_cassiterite_ore": "Blackstone Cassiterite Ore",
+  "block.orevspelcompat.blackstone_tungsten_ore": "Blackstone Tungsten Ore",
+  "block.orevspelcompat.diorite_platinum_ore": "Diorite Platinum Ore",
+  "block.orevspelcompat.diorite_tin_ore": "Diorite Tin Ore",
+  "block.orevspelcompat.granite_platinum_ore": "Granite Platinum Ore",
+  "block.orevspelcompat.granite_tin_ore": "Granite Tin Ore",
+  "block.orevspelcompat.tuff_platinum_ore": "Tuff Platinum Ore",
+  "block.orevspelcompat.tuff_tin_ore": "Tuff Tin Ore",
+  "item.orevspelcompat.raw_cassiterite_nugget": "Raw Cassiterite Nugget",
+  "item.orevspelcompat.raw_platinum_nugget": "Raw Platinum Nugget",
+  "item.orevspelcompat.raw_tin_nugget": "Raw Tin Nugget",
+  "item.orevspelcompat.raw_tungsten_nugget": "Raw Tungsten Nugget"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 12,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "orevspelcompat:raw_tungsten_nugget"
+  },
+  "result": {
+    "count": 1,
+    "id": "orevolution:tungsten_nugget"
+  }
+}

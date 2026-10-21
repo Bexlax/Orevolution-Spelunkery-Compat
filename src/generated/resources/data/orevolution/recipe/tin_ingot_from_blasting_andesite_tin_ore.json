@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "orevolution:tin_ingot",
+  "ingredient": [
+    {
+      "item": "orevspelcompat:andesite_tin_ore"
+    },
+    {
+      "item": "orevspelcompat:granite_tin_ore"
+    },
+    {
+      "item": "orevspelcompat:diorite_tin_ore"
+    },
+    {
+      "item": "orevspelcompat:tuff_tin_ore"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "orevolution:tin_ingot"
+  }
+}
