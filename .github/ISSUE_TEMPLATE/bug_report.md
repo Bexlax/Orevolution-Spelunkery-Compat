@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a bug report to help improve Orevolution
+about: Create a bug report to help improve OrevSpel Compat
 title: "[Bug]"
-labels: bug
+labels: bug, enhancement
 assignees: Bexlax
 type: Bug
 

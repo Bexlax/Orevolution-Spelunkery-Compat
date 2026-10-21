@@ -9,7 +9,7 @@ type: Feature
 ---
 
 # **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. It'd be nice if Orevolution had something like [...]
+A clear and concise description of what the problem is. Ex. It'd be nice if OrevSpel Compat had something like [...]
 
 # **Describe the solution you'd like**
 A clear and concise description of what you think would solve this problem
